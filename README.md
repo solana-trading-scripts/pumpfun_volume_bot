@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/31a27090-8e71-41ef-8780-9d2c60fbd4b6
 If you have git installed on your computer you can fetch the content of this repository with the command        
  
 ``` 
-git clone https://github.com/solana-trading-scripts/pumpfun_volume_bot
+git clone https://github.com/solana-trading-scripts/pumpfun_volume_bot.git
 ``` 
 
 ## Environment setup
